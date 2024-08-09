@@ -1,0 +1,25 @@
+.content {
+    font-size: 40px;
+    background-color: green;
+    color: red;
+    padding: 20px;
+}
+.Newcontent {
+    font-size: 60px;
+    background-color: darkblue;
+    padding: 10px;
+}
+.Box {
+    font-size: 16px;
+    background-color: darkblue;
+    padding: 10px;
+    width: 250px;
+}
+.dark {
+    background-color: #000;
+    color: #fff;
+}
+.light {
+    background-color: #fff;
+    color: #000;
+}
